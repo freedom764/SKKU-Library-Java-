@@ -1,0 +1,56 @@
+------Borrowing #1------
+Book Title: Calculus
+Book ISBN: 9788962184105
+Borrower Name: Cristiano Ronaldo
+Student ID: 2018314041
+Borrow Date: 2022-12-11
+Return Date: 2022-12-25
+------Borrowing #2------
+Book Title: Crime and Punishment
+Book ISBN: 978-0679734505
+Borrower Name: Monkey D. Luffy
+Student ID: 2021315060
+Borrow Date: 2022-12-11
+Return Date: 2022-12-11
+------Borrowing #3------
+Book Title: Crime and Punishment
+Book ISBN: 978-0679734505
+Borrower Name: Monkey D. Luffy
+Student ID: 2021315060
+Borrow Date: 2022-12-11
+Return Date: 2022-12-11
+------Borrowing #4------
+Book Title: The Girl with the Dragon Tattoo
+Book ISBN: 978-0307949486
+Borrower Name: Cristiano Ronaldo
+Student ID: 2018314041
+Borrow Date: 2022-12-11
+Return Date: 2022-12-25
+------Borrowing #5------
+Book Title: The Girl with the Dragon Tattoo
+Book ISBN: 978-0307949486
+Borrower Name: Trafalgar Law
+Student ID: 2020312020
+Borrow Date: 2022-12-11
+Return Date: 2022-12-25
+------Borrowing #6------
+Book Title: Crime and Punishment
+Book ISBN: 978-0679734505
+Borrower Name: Nariman Abu
+Student ID: 2021315064
+Borrow Date: 2022-12-11
+Return Date: 2022-12-11
+------Borrowing #7------
+Book Title: Crime and Punishment
+Book ISBN: 978-0679734505
+Borrower Name: Nariman Abu
+Student ID: 2021315064
+Borrow Date: 2022-12-11
+Return Date: 2022-12-25
+------Borrowing #8------
+Book Title: Crime and Punishment
+Book ISBN: 978-0679734505
+Borrower Name: Monkey D. Luffy
+Student ID: 2021315060
+Borrow Date: 2022-12-11
+Return Date: 2022-12-25

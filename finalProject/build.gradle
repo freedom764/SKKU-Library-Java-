@@ -1,0 +1,30 @@
+apply plugin: 'java'
+apply plugin: 'jacoco'
+apply plugin: 'application'
+apply plugin: 'com.github.johnrengelman.shadow'
+
+group = 'com.nariman'
+
+mainClassName = 'com.nariman.library.Main'
+
+repositories {
+    jcenter()
+}
+
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.github.jengelman.gradle.plugins:shadow:6.1.0'
+    }
+}
+
+dependencies {
+    testImplementation     'junit:junit:4.13'
+    
+    implementation 'com.google.firebase:firebase-admin:7.0.1'
+    implementation 'com.formdev:flatlaf:2.6'
+    implementation 'commons-validator:commons-validator:1.7'
+    
+}
